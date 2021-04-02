@@ -1,6 +1,6 @@
 # <p align='center'>Welcome!  🕺 </p>
 
-<p align='center'>My name's Kris, living in Tampa FL 🌴 Music lover 🎸 and a huge Coffee fan ☕</p>
+<p align='center'>My name's Kris, living in Tampa FL 🌴 Music lover 🎸 and run off Coffee ☕</p>
 
 ### About me:
 
@@ -11,3 +11,6 @@
 
 
 
+### Stats:
+![Kris' github stats](https://github-readme-stats.vercel.app/api?username=krislitman&show_icons=true&theme=radical)
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=krislitman&theme=blue-green)
