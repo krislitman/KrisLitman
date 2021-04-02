@@ -1,7 +1,17 @@
-# <p align='center'>Hello World :guitar:</p>
+# <p align='center'>Welcome!  🕺 </p>
 
 <!--
 **krislitman/KrisLitman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+My name's Kris, living in Tampa FL 🌴 Music lover 🎸 and a huge Coffee fan ☕
+
+### About me:
+<ul>
+  <li>Turing School of Software and Design Backend Student</li>
+  <li>Former Project Manager</li>
+  <li>Use pronouns he/him</li>
+  <li>Find me on [LinkedIn](https://www.linkedin.com/in/kris-litman-7095351a4/)</li>
+  <ul>
 
 Here are some ideas to get you started:
 
