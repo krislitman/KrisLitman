@@ -13,4 +13,4 @@
 
 ### Stats:
 ![Kris' github stats](https://github-readme-stats.vercel.app/api?username=krislitman&show_icons=true&theme=tokyonight)
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=krislitman&theme=blue-green)
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=krislitman&theme=tokyonight)
