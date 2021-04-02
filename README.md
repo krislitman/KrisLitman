@@ -1,6 +1,6 @@
-# <p align='center'>Welcome!  🕺 </p>
+# <p align='center'>Welcome all!  🕺 </p>
 
-<p align='center'>My name's Kris, living in Tampa FL 🌴 Music lover 🎸 and run off Coffee ☕</p>
+<p align='center'>My name's Kris, I'm living in Tampa FL 🌴 with my SO and our two Bordercollies 🐶  Music lover 🎸 and run off Coffee ☕</p>
 
 ### About me:
 
