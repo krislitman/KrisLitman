@@ -12,7 +12,7 @@
 ### Things I code with:
 - <img alt="Ruby" src="https://img.shields.io/badge/-Ruby-black?style=flat-square&logo=ruby&logoColor=white" />
 - <img alt="Rails" src="https://img.shields.io/badge/-Rails-black?style=flat-square&logo=rails&logoColor=white" />
-- - <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql" />
+- <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql" />
 ### Stats:
 ![Kris' github stats](https://github-readme-stats.vercel.app/api?username=krislitman&show_icons=true&theme=tokyonight)<br>
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=krislitman&theme=tokyonight)
