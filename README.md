@@ -11,7 +11,7 @@
 
 ### Things I code with:
 ![Ruby](https://img.shields.io/badge/-Ruby-black?style=flat-square&logo=ruby&logoColor=white)
-![Rails](https://img.shields.io/badge/-Ruby-On-Rails-black?style=flat-square&logo=ruby-on-rails&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/-Ruby-Rails-black?style=flat-square&logo=ruby-rails&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-black?style=flat-square&logo=visual-studio)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=white)
