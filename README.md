@@ -6,7 +6,7 @@
 
 - Backend Software Developer
 - Former Project Manager
-- Use pronouns he/him
+- Use he/him pronouns 
 - Find me on [LinkedIn](https://www.linkedin.com/in/kris-litman-7095351a4/)
 
 ### Things I code with:
