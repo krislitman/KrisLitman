@@ -1,4 +1,4 @@
-# <p align='center'>Welcome all!  🕺 </p>
+# <p align='center'>Welcome to my page!  🕺 </p>
 
 <p align='center'>My name's Kris, I'm living in Tampa FL 🌴 with my SO and our two Bordercollies 🐶  Music lover 🎸 and can't go a day without Coffee ☕</p>
 
