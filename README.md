@@ -20,7 +20,7 @@
 ![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
 ![Poastman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
 ![TravisCi](https://img.shields.io/badge/-Travis-black?style=flat-square&logo=travis-ci)
-![CircleCi](https://img.shields.io/badge/-Circle-black?style=flat-square&logo=circle-ci)
+![CircleCi](https://img.shields.io/badge/-CircleCI-black?style=flat-square&logo=circle-ci)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
