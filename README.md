@@ -1,6 +1,6 @@
 # <p align='center'>Welcome to my page!  🕺 </p>
 
-<p align='center'>My name's Kris, I live in Tampa FL 🌴 with my better half and our two Bordercollies 🐶  Music lover 🎸 and Coffee aficionado ☕</p>
+<p align='center'>My name's Kris, I live in Tampa FL 🌴 with my better half and our two Bordercollies. 🐶  Musician 🎸 and Coffee aficionado. ☕</p>
 
 ### About me:
 
