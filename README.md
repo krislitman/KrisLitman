@@ -12,6 +12,8 @@
 ### I enjoy coding with:
 ![Ruby](https://img.shields.io/badge/-Ruby-black?style=flat-square&logo=ruby&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/badge/-Rails-black?style=flat-square&logo=rails&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask&logoColor=white)
 ![Sinatra](https://img.shields.io/badge/-Sinatra-black?style=flat-square&logo=sinatra&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
