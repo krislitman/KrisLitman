@@ -8,6 +8,7 @@
 - Former Project Manager
 - Use he/him pronouns 
 - Like to write things once in awhile on [Medium](https://kris-litman.medium.com/)
+- Schedule some time to chat over coffee [Calendly](https://calendly.com/kris_litman)
 
 ### I enjoy coding with:
 ![Ruby](https://img.shields.io/badge/-Ruby-black?style=flat-square&logo=ruby&logoColor=white)
