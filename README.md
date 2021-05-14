@@ -7,7 +7,7 @@
 - Software Developer
 - Former Project Manager
 - Use he/him pronouns 
-- Find me on [LinkedIn](https://www.linkedin.com/in/kris-litman-7095351a4/)
+- Like to write things once in awhile [Medium](https://kris-litman.medium.com/)
 
 ### I enjoy coding with:
 ![Ruby](https://img.shields.io/badge/-Ruby-black?style=flat-square&logo=ruby&logoColor=white)
