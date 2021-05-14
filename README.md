@@ -2,12 +2,12 @@
 
 <p align='center'>My name's Kris, I live in Tampa FL 🌴 with my better half and our two Bordercollies. 🐶  Musician 🎸 and Coffee aficionado. ☕</p>
 
-### About me:
+### A little about me:
 
 - Software Developer
 - Former Project Manager
 - Use he/him pronouns 
-- Like to write things once in awhile [Medium](https://kris-litman.medium.com/)
+- Like to write things once in awhile on [Medium](https://kris-litman.medium.com/)
 
 ### I enjoy coding with:
 ![Ruby](https://img.shields.io/badge/-Ruby-black?style=flat-square&logo=ruby&logoColor=white)
