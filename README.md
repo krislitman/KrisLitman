@@ -15,7 +15,8 @@
 
 ### Latest post:
 
-![Excel with Ruby](https://kris-litman.medium.com/excel-with-ruby-24756b525c19)
+- [Excel with Ruby](https://kris-litman.medium.com/excel-with-ruby-24756b525c19)
+
 
 ### I enjoy coding with:
 
