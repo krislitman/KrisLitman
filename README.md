@@ -1,4 +1,5 @@
 # <p align='center'>Welcome to my page!  🕺 </p>
+![badge](https://img.shields.io/badge/Kris%20Litman-Software%20Developer-brightgreen)
 
 <p align='center'>My name's Kris, I live in Tampa FL 🌴 with my better half and our two Bordercollies. 🐶  Musician 🎸 and Coffee aficionado. ☕</p>
 
@@ -7,7 +8,7 @@
 - Software Developer
 - Former Project Manager
 - Use he/him pronouns 
-- Like to write things once in awhile on [Medium](https://kris-litman.medium.com/)
+- Enjoy writing on [Medium](https://kris-litman.medium.com/)
 - Schedule some time to chat over coffee [Calendly](https://calendly.com/kris_litman)
 
 ### I enjoy coding with:
