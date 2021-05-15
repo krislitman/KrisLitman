@@ -11,7 +11,14 @@
 - Enjoy writing on [Medium](https://kris-litman.medium.com/)
 - Schedule some time to chat over coffee [Calendly](https://calendly.com/kris_litman)
 
+<hr>
+
+### Latest post:
+
+![Excel with Ruby](https://kris-litman.medium.com/excel-with-ruby-24756b525c19)
+
 ### I enjoy coding with:
+
 ![Ruby](https://img.shields.io/badge/-Ruby-black?style=flat-square&logo=ruby&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/badge/-Rails-black?style=flat-square&logo=rails&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python&logoColor=white)
@@ -32,6 +39,7 @@
 
 
 ### Stats:
+
 ![Kris' github stats](https://github-readme-stats.vercel.app/api?username=krislitman&show_icons=true&theme=tokyonight)
 <br>
 <br>
