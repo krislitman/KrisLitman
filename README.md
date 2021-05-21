@@ -15,7 +15,7 @@
 
 ### Latest post:
 
-- [Excel with Ruby](https://kris-litman.medium.com/excel-with-ruby-24756b525c19)
+- [Learning Habits](https://kris-litman.medium.com/learning-habits-2a4d02fe1032)
 
 
 ### I enjoy coding with:
