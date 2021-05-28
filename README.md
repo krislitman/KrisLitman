@@ -15,7 +15,7 @@
 
 ### Latest post:
 
-- [Learning Habits](https://kris-litman.medium.com/learning-habits-2a4d02fe1032)
+- [Getting started with Flask](https://kris-litman.medium.com/getting-started-with-flask-4ba7cc5c5f83)
 
 
 ### I enjoy coding with:
