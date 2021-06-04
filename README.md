@@ -13,7 +13,9 @@
 
 <hr>
 
-### Latest post:
+### Latest posts:
+
+- [Connecting Flask to a MySQL Database](https://kris-litman.medium.com/connecting-flask-to-a-mysql-database-6f4d71b85d4e)
 
 - [Getting started with Flask](https://kris-litman.medium.com/getting-started-with-flask-4ba7cc5c5f83)
 
