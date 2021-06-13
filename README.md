@@ -15,6 +15,8 @@
 
 ### Latest posts:
 
+- [Mailgun with Heroku & Rails](https://kris-litman.medium.com/mailgun-with-heroku-and-rails-abe8e79d28a1)
+
 - [Connecting Flask to a MySQL Database](https://kris-litman.medium.com/connecting-flask-to-a-mysql-database-6f4d71b85d4e)
 
 - [Getting started with Flask](https://kris-litman.medium.com/getting-started-with-flask-4ba7cc5c5f83)
@@ -33,7 +35,7 @@
 ![Visual Studio](https://img.shields.io/badge/-Visual_Studio-black?style=flat-square&logo=visual-studio)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=white)
 ![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
-![Poastman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
+![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
 ![TravisCi](https://img.shields.io/badge/-Travis-black?style=flat-square&logo=travis-ci)
 ![CircleCi](https://img.shields.io/badge/-CircleCI-black?style=flat-square&logo=circle-ci)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
