@@ -6,7 +6,7 @@
 ### A little about me:
 
 - Currently a Software Developer at IDAX Data Solutions
-- Former Project Manager, working with multi-modal Transportation data collection projects
+- Former Project Manager, working on multi-modal Transportation data collection projects
 - Use he/him pronouns 
 - Currently learning Python, Django, and data analysis with Pandas
 - Have a blog on [Medium](https://kris-litman.medium.com/)
