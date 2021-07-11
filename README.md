@@ -1,7 +1,7 @@
 # <p align='center'>Welcome to my page! </p>
 ![badge align='center'](https://img.shields.io/badge/Kris%20Litman-Software%20Developer-blue) 
 
-<h4 align='center' >My name's Kris, I live in Tampa FL 🌴 with my better half and our two Bordercollies. 🐶  Musician 🎸 and Coffee aficionado. ☕</h4>
+<h4 align='center' >My name's Kris, I live in Tampa FL 🌴 with my better half and our two Bordercollies 🐶 . Multi-instrumentalist 🎸 and Coffee aficionado. ☕</h4>
 
 ### A little about me:
 
