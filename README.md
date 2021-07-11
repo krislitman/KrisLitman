@@ -5,12 +5,12 @@
 
 ### A little about me:
 
-- Software Developer
-- Former Project Manager
+- Currently a Software Developer at IDAX Data Solutions
+- Former Project Manager, working with multi-modal Transportation data collection projects
 - Use he/him pronouns 
-- Currently learning data analysis and manipulation with Python & Pandas
-- Enjoy writing on [Medium](https://kris-litman.medium.com/)
-- Schedule some time to chat over coffee [Calendly](https://calendly.com/kris_litman)
+- Currently learning Python, Django, and data analysis with Pandas
+- Have a blog on [Medium](https://kris-litman.medium.com/)
+- Schedule some time to chat over coffee or pair program on [Calendly](https://calendly.com/kris_litman)
 
 <hr>
 
