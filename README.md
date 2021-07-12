@@ -47,7 +47,11 @@
 
 ### Stats:
 
-![Kris' github stats](https://github-readme-stats.vercel.app/api?username=krislitman&show_icons=true&theme=tokyonight)
+<a href="https://github.com/krislitman/KrisLitman">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=krislitman&show_icons=true&theme=tokyonight"&alt="Kris Stats" />
+</a>
+
+<!-- ![Kris' github stats](https://github-readme-stats.vercel.app/api?username=krislitman&show_icons=true&theme=tokyonight) -->
 <br>
 <br>
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=krislitman&theme=tokyonight)
