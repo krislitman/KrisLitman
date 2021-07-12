@@ -1,11 +1,16 @@
 # <p align='center'>Welcome to my page! </p>
-<p align="center">
-  ![badge align='center'](https://img.shields.io/badge/Kris%20Litman-Software%20Developer-blue) 
+
+  <p align="center">
+  <a href="https://github.com/krislitman/KrisLitman">
+    <img src="https://img.shields.io/badge/Kris%20Litman-Software%20Developer-blue"&alt="Kris Badge"/>
+  </a>
 </p>
+<!--   ![badge align='center'](https://img.shields.io/badge/Kris%20Litman-Software%20Developer-blue)  -->
+
 
 <h4 align='center' >My name's Kris, I live in Tampa FL 🌴 with my better half and our two Bordercollies 🐶 . Multi-instrumentalist 🎸 and Coffee aficionado. ☕</h4>
 
-### A little about me:
+### <p align='center'>A little about me: </p>
 
 - Currently a Software Developer at IDAX Data Solutions
 - Former Project Manager, working on multi-modal Transportation data collection projects
@@ -16,7 +21,7 @@
 
 <hr>
 
-### Latest posts:
+### <p align='center'>Latest posts: </p>
 
 - [Mailgun with Heroku & Rails](https://kris-litman.medium.com/mailgun-with-heroku-and-rails-abe8e79d28a1)
 
@@ -25,7 +30,7 @@
 - [Getting started with Flask](https://kris-litman.medium.com/getting-started-with-flask-4ba7cc5c5f83)
 
 
-### I enjoy coding with:
+### <p align='center'>I enjoy coding with: </p>
 
 ![Ruby](https://img.shields.io/badge/-Ruby-black?style=flat-square&logo=ruby&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/badge/-Rails-black?style=flat-square&logo=rails&logoColor=white)
@@ -47,7 +52,7 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat-square&logo=bootstrap)
 
 
-### Stats:
+### <p align='center'>Stats: </p>
 
 <p align="center">
   <a href="https://github.com/krislitman/KrisLitman">
