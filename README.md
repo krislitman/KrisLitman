@@ -10,7 +10,7 @@
 
 <h4 align='center' >My name's Kris, I live in Tampa FL 🌴 with my better half and our two Bordercollies 🐶 . Multi-instrumentalist 🎸 and Coffee aficionado. ☕</h4>
 
-### <p align='center'>A little about me: </p>
+### A little about me:
 
 - Currently a Software Developer at IDAX Data Solutions
 - Former Project Manager, working on multi-modal Transportation data collection projects
@@ -21,7 +21,7 @@
 
 <hr>
 
-### <p align='center'>Latest posts: </p>
+### Latest posts: 
 
 - [Mailgun with Heroku & Rails](https://kris-litman.medium.com/mailgun-with-heroku-and-rails-abe8e79d28a1)
 
@@ -30,7 +30,7 @@
 - [Getting started with Flask](https://kris-litman.medium.com/getting-started-with-flask-4ba7cc5c5f83)
 
 
-### <p align='center'>I enjoy coding with: </p>
+### I enjoy coding with:
 
 ![Ruby](https://img.shields.io/badge/-Ruby-black?style=flat-square&logo=ruby&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/badge/-Rails-black?style=flat-square&logo=rails&logoColor=white)
@@ -53,7 +53,7 @@
 
 
 ### <p align='center'>Stats: </p>
-
+<br>
 <p align="center">
   <a href="https://github.com/krislitman/KrisLitman">
     <img src="https://github-readme-stats.vercel.app/api?username=krislitman&count_private=true&show_icons=true&theme=tokyonight"&alt="Kris Stats" />
