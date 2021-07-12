@@ -1,5 +1,7 @@
 # <p align='center'>Welcome to my page! </p>
-![badge align='center'](https://img.shields.io/badge/Kris%20Litman-Software%20Developer-blue) 
+<p align="center">
+  ![badge align='center'](https://img.shields.io/badge/Kris%20Litman-Software%20Developer-blue) 
+</p>
 
 <h4 align='center' >My name's Kris, I live in Tampa FL 🌴 with my better half and our two Bordercollies 🐶 . Multi-instrumentalist 🎸 and Coffee aficionado. ☕</h4>
 
@@ -53,7 +55,5 @@
   </a>
 </p>
 
-<!-- ![Kris' github stats](https://github-readme-stats.vercel.app/api?username=krislitman&show_icons=true&theme=tokyonight) -->
-<br>
-<br>
+<!--  Top language stats are below -->
 <!-- ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=krislitman&theme=tokyonight) -->
