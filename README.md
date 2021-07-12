@@ -1,4 +1,4 @@
-# <p align='center'>Welcome to my page! </p>
+# <p align='center'>Hello!</p>
 
   <p align="center">
   <a href="https://github.com/krislitman/KrisLitman">
@@ -8,7 +8,7 @@
 <!--   ![badge align='center'](https://img.shields.io/badge/Kris%20Litman-Software%20Developer-blue)  -->
 
 
-<h4 align='center' >My name's Kris, I live in Tampa FL 🌴 with my better half and our two Bordercollies 🐶 . Multi-instrumentalist 🎸 and Coffee aficionado. ☕</h4>
+<h4 align='center' >My name's Kris, I live in Tampa FL 🌴 with my better half and our two Bordercollies 🐶 . I'm a Multi-instrumentalist 🎸 and Coffee lover ☕</h4>
 
 ### A little about me:
 
@@ -21,7 +21,7 @@
 
 <hr>
 
-### Latest posts: 
+### Latest blog posts: 
 
 - [Mailgun with Heroku & Rails](https://kris-litman.medium.com/mailgun-with-heroku-and-rails-abe8e79d28a1)
 
@@ -30,7 +30,7 @@
 - [Getting started with Flask](https://kris-litman.medium.com/getting-started-with-flask-4ba7cc5c5f83)
 
 
-### I enjoy coding with:
+### Enjoy coding with:
 
 ![Ruby](https://img.shields.io/badge/-Ruby-black?style=flat-square&logo=ruby&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/badge/-Rails-black?style=flat-square&logo=rails&logoColor=white)
@@ -41,6 +41,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=redis)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=white)
 ![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku)
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
@@ -58,7 +59,7 @@
 <br>
 <p align="center">
   <a href="https://github.com/krislitman/KrisLitman">
-    <img src="https://github-readme-stats.vercel.app/api?username=krislitman&count_private=true&show_icons=true&theme=tokyonight"&alt="Kris Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=krislitman&count_private=true&show_icons=true&theme=nord"&alt="Kris Stats" />
   </a>
 </p>
 
