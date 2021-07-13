@@ -32,7 +32,7 @@
 
 ### I enjoy coding with:
 
-![VSCode](https://img.shields.io/badge/-Visual_Studio_Code-black?style=flat-square&logo=visual)
+![VSCode](https://img.shields.io/badge/-Visual_Studio_Code-black?style=flat-square&logo=visual%20studio%20code)
 ![Ruby](https://img.shields.io/badge/-Ruby-black?style=flat-square&logo=ruby&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/badge/-Rails-black?style=flat-square&logo=rails&logoColor=white)
 ![Sinatra](https://img.shields.io/badge/-Sinatra-black?style=flat-square&logo=sinatra&logoColor=white)
