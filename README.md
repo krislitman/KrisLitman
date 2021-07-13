@@ -1,4 +1,4 @@
-# <p align='center'>Hello!</p>
+# <p align='center'>Hello, welcome!</p>
 
   <p align="center">
   <a href="https://github.com/krislitman/KrisLitman">
@@ -8,20 +8,20 @@
 <!--   ![badge align='center'](https://img.shields.io/badge/Kris%20Litman-Software%20Developer-blue)  -->
 
 
-<h4 align='center' >My name's Kris, I live in Tampa FL 🌴 with my better half and our two Bordercollies 🐶 . I'm a Multi-instrumentalist 🎸 and Coffee lover ☕</h4>
+<h4 align='center' >I'm Kris, Software Developer living in Tampa FL 🌴 with my better half and our two Bordercollies 🐶</h4>
 
 ### A little about me:
 
-- Currently a Software Developer at IDAX Data Solutions
+- Multi-instumentalist 🎸
 - Former Project Manager, working on multi-modal Transportation data collection projects
 - Use he/him pronouns 
-- Currently learning Python, Django, and data analysis with Pandas
+- Currently learning Django framework, and data analysis with Pandas
 - Have a blog on [Medium](https://kris-litman.medium.com/)
-- Schedule some time to chat over coffee or pair program on [Calendly](https://calendly.com/kris_litman)
+- Schedule some time to chat over coffee or to pair program on [Calendly](https://calendly.com/kris_litman)
 
 <hr>
 
-### Latest blog posts: 
+### Latest posts: 
 
 - [Mailgun with Heroku & Rails](https://kris-litman.medium.com/mailgun-with-heroku-and-rails-abe8e79d28a1)
 
@@ -30,8 +30,9 @@
 - [Getting started with Flask](https://kris-litman.medium.com/getting-started-with-flask-4ba7cc5c5f83)
 
 
-### Enjoy coding with:
+### I enjoy coding with:
 
+![VSCode](https://img.shields.io/badge/-Visual_Studio_Code-black?style=flat-square&logo=visual)
 ![Ruby](https://img.shields.io/badge/-Ruby-black?style=flat-square&logo=ruby&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/badge/-Rails-black?style=flat-square&logo=rails&logoColor=white)
 ![Sinatra](https://img.shields.io/badge/-Sinatra-black?style=flat-square&logo=sinatra&logoColor=white)
@@ -55,7 +56,7 @@
 <hr>
 
 
-### <p align='center'>Stats: </p>
+### <p align='center'>Github Stats: </p>
 <br>
 <p align="center">
   <a href="https://github.com/krislitman/KrisLitman">
