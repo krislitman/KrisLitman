@@ -22,7 +22,7 @@
 
 ### Latest posts: 
 
-<img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white" />
+<a href="https://kris-litman.medium.com"><img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white" />
 
 - [Mailgun with Heroku & Rails](https://kris-litman.medium.com/mailgun-with-heroku-and-rails-abe8e79d28a1)
 
