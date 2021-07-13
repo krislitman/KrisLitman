@@ -16,12 +16,13 @@
 - Former Project Manager, working on multi-modal Transportation data collection projects
 - Use he/him pronouns 
 - Currently learning Django framework, and data analysis with Pandas
-- Have a blog on [Medium](https://kris-litman.medium.com/)
 - Schedule some time to chat over coffee or to pair program on [Calendly](https://calendly.com/kris_litman)
 
 <hr>
 
 ### Latest posts: 
+
+<img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white" />
 
 - [Mailgun with Heroku & Rails](https://kris-litman.medium.com/mailgun-with-heroku-and-rails-abe8e79d28a1)
 
@@ -30,12 +31,11 @@
 - [Getting started with Flask](https://kris-litman.medium.com/getting-started-with-flask-4ba7cc5c5f83)
 
 
-### I enjoy coding with:
+### Things I code with:
 
 ![VSCode](https://img.shields.io/badge/-Visual_Studio_Code-black?style=flat-square&logo=visual%20studio%20code)
 ![Ruby](https://img.shields.io/badge/-Ruby-black?style=flat-square&logo=ruby&logoColor=white)
-![Ruby on Rails](https://img.shields.io/badge/-Rails-black?style=flat-square&logo=rails&logoColor=white)
-![Sinatra](https://img.shields.io/badge/-Sinatra-black?style=flat-square&logo=sinatra&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/rails-black?style=flat-square&logo=ruby-on-rails&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask&logoColor=white)
