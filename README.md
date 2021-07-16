@@ -23,6 +23,8 @@
 ### Latest posts: 
 
 <a href="https://kris-litman.medium.com"><img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white" />
+  
+- [PostgreSQL Command Line Options](https://kris-litman.medium.com/postgresql-command-line-options-b00b8d025fd3)
 
 - [Mailgun with Heroku & Rails](https://kris-litman.medium.com/mailgun-with-heroku-and-rails-abe8e79d28a1)
 
@@ -64,5 +66,9 @@
   </a>
 </p>
 
-<!--  Top language stats are below -->
-<!-- ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=krislitman&theme=tokyonight) -->
+<br>
+<p align="center">
+  <a href="https://github.com/krislitman/KrisLitman">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krislitman&theme=nord"&alt="Kris Top Languages" />
+  </a>
+</p>
