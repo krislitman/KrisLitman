@@ -24,6 +24,8 @@
 
 <a href="https://kris-litman.medium.com"><img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white" />
   
+- [Landing your first Software Developer Job](https://kris-litman.medium.com/landing-your-first-software-developer-job-with-a-nontraditional-background-941aef804bd2)
+  
 - [PostgreSQL Command Line Options](https://kris-litman.medium.com/postgresql-command-line-options-b00b8d025fd3)
 
 - [Mailgun with Heroku & Rails](https://kris-litman.medium.com/mailgun-with-heroku-and-rails-abe8e79d28a1)
