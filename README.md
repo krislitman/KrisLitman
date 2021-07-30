@@ -1,4 +1,4 @@
-# <p align='center'>Hello, welcome!</p>
+# <p align='center'>Hello!</p>
 
   <p align="center">
   <a href="https://github.com/krislitman/KrisLitman">
@@ -12,10 +12,10 @@
 
 ### A little about me:
 
-- Multi-instumentalist 🎸
+- Multi-instumentalist 🎸 🥁 🎙
 - Former Project Manager, working on multi-modal Transportation data collection projects
 - Use he/him pronouns 
-- Currently learning Django framework, and data analysis with Pandas
+- Currently learning Django framework & React
 - Schedule some time to chat over coffee or to pair program on [Calendly](https://calendly.com/kris_litman)
 
 <hr>
