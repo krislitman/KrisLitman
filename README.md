@@ -39,7 +39,7 @@
 ![Ruby](https://img.shields.io/badge/-Ruby-black?style=flat-square&logo=ruby&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/badge/rails-black?style=flat-square&logo=ruby-on-rails&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django&logoColor=white)
+<!-- ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=django&logoColor=white) -->
 ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
