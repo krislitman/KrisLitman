@@ -2,7 +2,7 @@
 
   <p align="center">
   <a href="https://github.com/krislitman/KrisLitman">
-    <img src="https://img.shields.io/badge/Kris%20Litman-Software%Engineer-blue"&alt="Kris Badge"/>
+    <img src="https://img.shields.io/badge/Kris%20Litman-Software%Developer"&alt="Kris Badge"&labelColor=81A1C1/>
   </a>
 </p>
 <!--   ![badge align='center'](https://img.shields.io/badge/Kris%20Litman-Software%20Developer-blue)  -->
