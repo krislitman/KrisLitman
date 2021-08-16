@@ -8,7 +8,7 @@
 <!--   ![badge align='center'](https://img.shields.io/badge/Kris%20Litman-Software%20Developer-blue)  -->
 
 
-<h4 align='center' >I'm Kris, Software Developer living in Tampa FL 🌴 with my better half and our two Bordercollies 🐶</h4>
+<h4 align='center' >My name is Kris, I am a Software Engineer living in Tampa FL 🌴 with my better half and our two Bordercollies 🐶</h4>
 
 ### About me:
 
