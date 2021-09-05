@@ -15,7 +15,6 @@
 - Multi-instumentalist 🎸 🥁 🎙
 - Former Project Manager, leading multi-modal transportation data collection projects
 - Use he/him pronouns 
-- Currently learning Django & React
 - Schedule some time to chat over coffee or to pair program on [Calendly](https://calendly.com/kris_litman)
 
 <hr>
