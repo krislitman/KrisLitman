@@ -13,9 +13,9 @@
 ### About me:
 
 - Multi-instumentalist 🎸 🥁 🎙
-- Former Project Manager, leading multi-modal transportation data collection projects
+- Former Project Manager in Transportation Industry
 - Use he/him pronouns 
-- Schedule some time to chat over coffee or to pair program on [Calendly](https://calendly.com/kris_litman)
+- Currently learning about Database Design
 
 <hr>
 
