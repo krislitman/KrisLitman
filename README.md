@@ -23,6 +23,8 @@
 
 <a href="https://kris-litman.medium.com"><img alt="Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white" />
   
+- [Background Jobs in Rails](https://kris-litman.medium.com/background-jobs-in-rails-e1371a74b59)
+  
 - [Landing your first Software Developer Job](https://kris-litman.medium.com/landing-your-first-software-developer-job-with-a-nontraditional-background-941aef804bd2)
   
 - [PostgreSQL Command Line Options](https://kris-litman.medium.com/postgresql-command-line-options-b00b8d025fd3)
