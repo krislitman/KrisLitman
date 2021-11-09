@@ -8,14 +8,14 @@
 <!--   ![badge align='center'](https://img.shields.io/badge/Kris%20Litman-Software%20Developer-blue)  -->
 
 
-<h4 align='center' >My name is Kris, I am a Software Engineer living in Tampa FL 🌴 with my better half and our two Bordercollies 🐶</h4>
+<h4 align='center' >My name is Kris, I am a Software Engineer living in Tampa FL 🌴 with my wife 💃🕺 and our two Bordercollies 🐶</h4>
 
 ### About me:
 
 - Multi-instumentalist 🎸 🥁 🎙
-- Former Project Manager in Transportation Industry
+- Former Project Manager in the Transportation Industry
 - Use he/him pronouns 
-- Currently learning about Database Design
+- Currently learning React
 
 <hr>
 
