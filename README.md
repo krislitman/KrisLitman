@@ -8,14 +8,14 @@
 <!--   ![badge align='center'](https://img.shields.io/badge/Kris%20Litman-Software%20Developer-blue)  -->
 
 
-<h4 align='center' >My name is Kris, I am a Software Engineer living in Tampa FL 🌴 with my wife 💃🕺 and our two Bordercollies 🐶</h4>
+<h3 align='center' >My name is Kris, I am a Software Engineer living in Tampa FL 🌴 with my wife 💃🕺 and our two Bordercollies 🐶</h3>
 
 ### About me:
 
-- Multi-instumentalist 🎸 🥁 🎙
-- Former Project Manager in the Transportation Industry
-- Use he/him pronouns 
-- Currently learning React
+- #### Multi-instumentalist 🎸 🥁 🎶 🎙
+- #### Former Project Manager in the Transportation Industry
+- #### I use he/him pronouns 
+- #### Currently working on [Caffeination](https://github.com/krislitman/caffeination_fe) - an app to find & filter local coffee shops, and [Telepic](https://github.com/Telepic-Game) with my friend [Jordan Beck](https://github.com/jordanfbeck0528) - a fun turn based picture drawing game
 
 <hr>
 
