@@ -63,7 +63,6 @@
 ![TravisCi](https://img.shields.io/badge/-Travis%20-3B4252?style=for-the-badge&logo=travis-ci)
 ![CircleCi](https://img.shields.io/badge/-CircleCI%20-3B4252?style=for-the-badge&logo=circleci)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap%20-3B4252?style=for-the-badge&logo=bootstrap)
-![Microsoft Office](https://img.shields.io/badge/-Microsoft_Office%20-3B4252?style=for-the-badge&logo=microsoft-office)
   
 <br>
 <hr>
