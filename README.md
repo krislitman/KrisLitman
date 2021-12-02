@@ -13,7 +13,7 @@
 - #### Multi-instumentalist 🎸 🥁 🎶 🎙
 - #### Former Project Manager in the Transportation Industry 🚗 🚌
 - #### I use he/him pronouns 
-- #### Currently working on [Caffeination](https://github.com/krislitman/caffeination_fe) - an app to find & filter local coffee shops, and [Telepic](https://github.com/Telepic-Game) with my friend [Jordan Beck](https://github.com/jordanfbeck0528) - a fun turn based picture drawing game
+- #### Currently working on [Caffeination](https://github.com/krislitman/caffeination_fe) - an app to find & share local coffee shops, and [Telepic](https://github.com/Telepic-Game) with my friend [Jordan Beck](https://github.com/jordanfbeck0528) - a fun turn based picture drawing game
 
 <hr>
 
