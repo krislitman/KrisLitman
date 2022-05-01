@@ -9,11 +9,11 @@
 
 ### About me:
 
-- #### Living in Tampa FL 🌴 with my wife 💃🕺 and our two Bordercollies 🐶
-- #### Multi-instumentalist 🎸 🥁 🎶 🎙
+- #### Living in Tampa FL 🌴 with my wife 💃🕺 and our two Bordercollies 🐶 🐶
+- #### Multi-instumentalist && Audio Engineer 🎸 🥁 🎶 🎙
 - #### Former Project Manager in the Transportation Industry 🚗 🚌
 - #### I use he/him pronouns 
-- #### Currently working on [Caffeination](https://github.com/krislitman/caffeination_fe) - an app to find & share local coffee shops, and [Telepic](https://github.com/Telepic-Game) with my friend [Jordan Beck](https://github.com/jordanfbeck0528) - a fun turn based picture drawing game
+- #### Currently working on [Caffeination](https://github.com/krislitman/caffeination_fe) - two repositories (FE Rails, BE Rails API) to find, favorite & share local coffee shops
 
 <hr>
 
@@ -82,3 +82,6 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krislitman&theme=nord"&alt="Kris Top Languages" />
   </a>
 </p>
+<br>
+  
+[![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=krislitman&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
