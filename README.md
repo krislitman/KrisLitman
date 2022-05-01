@@ -13,7 +13,7 @@
 - #### Multi-instumentalist && Audio Engineer 🎸 🥁 🎶 🎙
 - #### Former Project Manager in the Transportation Industry 🚗 🚌
 - #### I use he/him pronouns 
-- #### Currently working on [Caffeination](https://github.com/krislitman/caffeination_fe) - two repositories (FE Rails, BE Rails API) to find, favorite & share local coffee shops
+- #### Currently working on my app Caffeination - comprised of two repositories ([Rails FE](https://github.com/krislitman/caffeination_fe), [Rails API BE](https://github.com/krislitman/caffeination_be)) to find, favorite & share local coffee shops
 
 <hr>
 
