@@ -17,7 +17,7 @@
 
 <hr>
 
-### Latest Medium posts: 
+### Latest posts: 
   
 - [Background Jobs in Rails](https://kris-litman.medium.com/background-jobs-in-rails-e1371a74b59)
   
@@ -31,7 +31,7 @@
 
 - [Getting started with Flask](https://kris-litman.medium.com/getting-started-with-flask-4ba7cc5c5f83)
 
-<a href="https://kris-litman.medium.com"><img alt="Medium" src="https://img.shields.io/badge/Medium%20-3B4252.svg?style=for-the-badge&logo=Medium&logoColor=white" />
+<a href="https://krislitman.github.io/"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages%20-3B4252.svg?style=for-the-badge&logo=GitHubPages&logoColor=white" />
 
 <hr>
   
