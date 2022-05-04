@@ -18,18 +18,14 @@
 <hr>
 
 ### Latest posts: 
+
+- [Testing Background Jobs in Rails](https://krislitman.github.io/testing-background-jobs-rails/)
   
-- [Background Jobs in Rails](https://kris-litman.medium.com/background-jobs-in-rails-e1371a74b59)
+- [Background Jobs in Rails](https://krislitman.github.io/background-jobs-rails/)
   
 - [Landing your first Software Developer Job](https://kris-litman.medium.com/landing-your-first-software-developer-job-with-a-nontraditional-background-941aef804bd2)
   
 - [PostgreSQL Command Line Options](https://kris-litman.medium.com/postgresql-command-line-options-b00b8d025fd3)
-
-- [Mailgun with Heroku & Rails](https://kris-litman.medium.com/mailgun-with-heroku-and-rails-abe8e79d28a1)
-
-- [Connecting Flask to a MySQL Database](https://kris-litman.medium.com/connecting-flask-to-a-mysql-database-6f4d71b85d4e)
-
-- [Getting started with Flask](https://kris-litman.medium.com/getting-started-with-flask-4ba7cc5c5f83)
 
 <a href="https://krislitman.github.io/"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages%20-3B4252.svg?style=for-the-badge&logo=GitHubPages&logoColor=white" />
 
