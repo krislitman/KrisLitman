@@ -26,8 +26,11 @@
 - [Landing your first Software Developer Job](https://kris-litman.medium.com/landing-your-first-software-developer-job-with-a-nontraditional-background-941aef804bd2)
   
 - [PostgreSQL Command Line Options](https://kris-litman.medium.com/postgresql-command-line-options-b00b8d025fd3)
+<br>
 
 <a href="https://krislitman.github.io/"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages%20-3B4252.svg?style=for-the-badge&logo=GitHubPages&logoColor=white" />
+  
+<a href="https://kris-litman.medium.com/"><img alt="Medium" src="https://img.shields.io/badge/Medium%20-3B4252.svg?style=for-the-badge&logo=Medium&logoColor=white" />
 
 <hr>
   
