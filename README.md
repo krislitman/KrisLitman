@@ -65,22 +65,4 @@
   
 <br>
 <hr>
-
-
-### <p align='center'>Github Stats: </p>
-<br>
-<p align="center">
-  <a href="https://github.com/krislitman/KrisLitman">
-    <img src="https://github-readme-stats.vercel.app/api?username=krislitman&count_private=true&show_icons=true&theme=nord"&alt="Kris Stats" />
-  </a>
-</p>
-
-<br>
-<p align="center">
-  <a href="https://github.com/krislitman/KrisLitman">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krislitman&theme=nord"&alt="Kris Top Languages" />
-  </a>
-</p>
-<br>
   
-[![Github Activity Graph](https://activity-graph.herokuapp.com/graph?username=krislitman&theme=nord)](https://github.com/ashutosh00710/github-readme-activity-graph)
