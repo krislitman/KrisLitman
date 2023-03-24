@@ -9,7 +9,7 @@
 
 ### About me:
 
-- #### Living in Tampa FL 🌴 with my wife 💃🕺 and our two Bordercollies 🐶 🐶
+- #### Working at Huntress as a Software Engineer
 - #### Multi-instumentalist && Audio Engineer 🎸 🥁 🎶 🎙
 - #### Former Project Manager in the Transportation Industry 🚗 🚌
 - #### I use he/him pronouns 
