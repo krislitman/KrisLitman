@@ -9,11 +9,11 @@
 
 ### About me:
 
-- #### Working at Huntress as a Software Engineer
+- #### Software Engineer at Huntress
 - #### Multi-instumentalist && Audio Engineer 🎸 🥁 🎶 🎙
 - #### Former Project Manager in the Transportation Industry 🚗 🚌
 - #### I use he/him pronouns 
-- #### Currently working on my app Caffeination - comprised of two repositories ([Rails FE](https://github.com/krislitman/caffeination_fe), [Rails API BE](https://github.com/krislitman/caffeination_be)) to find, favorite & share local coffee shops
+- #### Currently building an app for my coffee roasting business, Death Bloom Coffee Roasters
 
 <hr>
 
